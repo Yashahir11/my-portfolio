@@ -19,9 +19,9 @@ Vercel automatically redeploys when you push changes to the connected GitHub rep
 
 - Replace the GitHub and View demo links in `index.html` with each project's real URLs. They currently take visitors to the contact section rather than inventing project links.
 - The portfolio's Resume links open `resume.html`, the up-to-date, print-friendly resume. It reflects the verified Maxgen Technologies dates and current DataMites training and internship.
-- The original resume PDF is included at `assets/YashBhetariya_Resume.pdf` and remains available from the resume page.
+- The supplied updated resume PDF is included at `assets/YashBhetariya_Resume.pdf` and remains available from the resume page.
 - The Maxgen experience letter is linked from the Maxgen experience entry as `assets/Maxgen_Experience_Letter.pdf`.
 - Subtle entrance and scroll-reveal animations respect the visitor's reduced-motion accessibility preference.
 - The hero portrait is stored at `assets/yash-bhetariya.png`; the hero also includes direct LinkedIn, GitHub, and phone links.
-- The supplied resume PDF is retained as-is; use the updated `resume.html` for the corrected experience details.
+- The portfolio also includes a print-friendly HTML resume at `resume.html`.
 - Current DataMites training and internship details are listed as ongoing; no start date was provided.
